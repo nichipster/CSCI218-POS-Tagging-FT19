@@ -18,3 +18,8 @@ This project implements and evaluates various approaches to Part-of-Speech (POS)
 |Mya Thet Hnin|8865607|
 |Soh Liu Jing Mabel|8865887|
 |Timothy Yuanquan Pan|8496973|
+
+## Links
+
+**Presentation video:**
+**Google drive:** https://drive.google.com/drive/folders/10sNE4mNq7-LjJqab080a869DvsRjTL8P?usp=sharing
