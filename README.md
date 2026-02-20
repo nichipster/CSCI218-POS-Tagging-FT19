@@ -22,4 +22,5 @@ This project implements and evaluates various approaches to Part-of-Speech (POS)
 ## Links
 
 **Presentation video:**
+
 **Google drive:** https://drive.google.com/drive/folders/10sNE4mNq7-LjJqab080a869DvsRjTL8P?usp=sharing
